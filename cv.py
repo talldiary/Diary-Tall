@@ -10,7 +10,7 @@ with st.sidebar:
 
 ###########################################
 
-st.header("👩‍🦳a propos")
+st.header("a propos")
 st.write("Geomaticienne et geographe titulaire d'une licence,maitrisant les outils SIG(QGIS,ARCGIS) et la cartographie.capable d'analyser et de valoriser des donnees spatiales pour l'aide a la decision.")
 
 ##########################################
