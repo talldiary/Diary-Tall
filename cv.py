@@ -2,7 +2,6 @@ import streamlit as st
 st.title("mon porforiot")
 
 with st.sidebar:
-    st.image("pp.jfif")
     st.write("Diary")
     st.write("nom:Tall")
     st.write("adresse:Noflaye")
